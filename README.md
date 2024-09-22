@@ -5,7 +5,7 @@
 
 Projeto construído pelo curso da Origamid
 
-[🔗Clique aqui para acessar](https://lryanborges.github.io/bikcraft-GoDev/)
+[🔗Clique aqui para acessar](https://lryanborges.github.io/bikcraft-Origamid/)
 
 ## 🛠 Tecnologias
 
